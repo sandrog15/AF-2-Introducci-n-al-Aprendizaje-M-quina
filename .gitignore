@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints/
+*.keras
+*.joblib
+metricas_prueba.csv
+curvas_*.png
+matriz_confusion.png
